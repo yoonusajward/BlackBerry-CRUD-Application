@@ -1,0 +1,10 @@
+1) Open Cmd - Type mongod
+2) Open VS Code
+	- Go to backend directory: node server.js
+	- Go to frontend directory: npm run serve
+
+
+After updating the files.
+Run this code also in the terminal of the front end dir:
+
+npm run lint -- --fix
